@@ -12,7 +12,7 @@ for num in str(sum):
 
 i = len(out) - 1
 j = 0
-while (j < i):
+while j < i:
     print(shuzi[out[j]]+" ", end="")
     j += 1
 print(shuzi[int(out[i])], end="")
