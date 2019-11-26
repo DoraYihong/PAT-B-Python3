@@ -13,11 +13,11 @@ found1 = False
 found2 = False
 num = min(len(a), len(b))
 for i in range(num):
-    if found1 is False and a[i].isupper() and a[i] == b[i] and 'A' <= a[i] <= 'G':
+    if found1 is False and a[i].isupper() and a[i] == b[i] and 'A' <= a[i] <= 'G':  # 下标需相同，只能是A-G
         found1 = True
         print(dd.get(a[i]), end=" ")
     elif (a[i].isdigit() or a[i].isupper()) and found1 is True and found2 is False and a[i] == b[i] and (
-            'A' <= a[i] <= 'N' or '0' <= a[i] <= '9'):
+            'A' <= a[i] <= 'N' or '0' <= a[i] <= '9'):  # 下标需相同，只能是数字或A-N
         found2 = True
         hour = str(a[i])
         print(hh.get(hour), end=":")
@@ -26,10 +26,10 @@ for i in range(num):
 found3 = False
 num = min(len(c), len(d))
 for i in range(num):
-    if found3 is False and c[i] == d[i] and c[i].isalpha():
+    if found3 is False and c[i] == d[i] and c[i].isalpha():  # 下标需相同，且c[i]是字母
         found3 = True
         if i in range(0, 10):
-            print("0" + str(i), end="")
+            print("0" + str(i), end="")  # 如果是0-9，需要补0
         else:
             print(i, end="")
         break
