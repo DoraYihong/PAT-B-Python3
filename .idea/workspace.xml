@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e82440db-8389-4268-847b-50e18b4b06d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1025.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1026.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,8 +13,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1025.py">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/1026.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" lean-forward="true" selection-end-line="6" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -57,6 +60,7 @@
         <option value="$PROJECT_DIR$/1023.py" />
         <option value="$PROJECT_DIR$/1024.py" />
         <option value="$PROJECT_DIR$/1025.py" />
+        <option value="$PROJECT_DIR$/1026.py" />
       </list>
     </option>
   </component>
@@ -111,29 +115,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1025">
-    <configuration name="1021" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PAT-B-Python3" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1021.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.1026">
     <configuration name="1022" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PAT-B-Python3" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -222,13 +204,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="1026" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PAT-B-Python3" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1026.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1026" />
         <item itemvalue="Python.1025" />
         <item itemvalue="Python.1024" />
         <item itemvalue="Python.1023" />
         <item itemvalue="Python.1022" />
-        <item itemvalue="Python.1021" />
       </list>
     </recent_temporary>
   </component>
@@ -246,7 +250,7 @@
       <workItem from="1574610243779" duration="30910000" />
       <workItem from="1574751402873" duration="15956000" />
       <workItem from="1574842757496" duration="16857000" />
-      <workItem from="1574918064215" duration="9293000" />
+      <workItem from="1574918064215" duration="10723000" />
     </task>
     <task id="LOCAL-00001" summary="1002">
       <created>1574659660738</created>
@@ -430,11 +434,18 @@
       <option name="project" value="LOCAL" />
       <updated>1574926447034</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="1025">
+      <created>1574928184307</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1574928184307</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74851000" />
+    <option name="totallyTimeSpent" value="76281000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
@@ -490,7 +501,8 @@
     <MESSAGE value="1022" />
     <MESSAGE value="1023" />
     <MESSAGE value="1024" />
-    <option name="LAST_COMMIT_MESSAGE" value="1024" />
+    <MESSAGE value="1025" />
+    <option name="LAST_COMMIT_MESSAGE" value="1025" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PAT_B_Python3$1011.coverage" NAME="1011 Coverage Results" MODIFIED="1574682386840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -498,6 +510,7 @@
     <SUITE FILE_PATH="coverage/PAT_B_Python3$1017.coverage" NAME="1017 Coverage Results" MODIFIED="1574848338986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PAT_B_Python3$1005.coverage" NAME="1005 Coverage Results" MODIFIED="1574669786101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PAT_B_Python3$1020.coverage" NAME="1020 Coverage Results" MODIFIED="1574862512596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PAT_B_Python3$1026.coverage" NAME="1026 Coverage Results" MODIFIED="1574929382625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PAT_B_Python3$1023.coverage" NAME="1023 Coverage Results" MODIFIED="1574923858552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PAT_B_Python3$1008.coverage" NAME="1008 Coverage Results" MODIFIED="1574678718751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/PAT_B_Python3$1025.coverage" NAME="1025 Coverage Results" MODIFIED="1574926459155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -699,6 +712,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1025.py">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1026.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" lean-forward="true" selection-end-line="6" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
