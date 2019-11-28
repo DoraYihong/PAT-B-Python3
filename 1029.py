@@ -12,4 +12,4 @@ str3 = []
 for x in str1:
     if x not in str3:
         str3.append(x)
-print(''.join(i for i in str3))
+print(''.join(str3))
