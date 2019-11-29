@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e82440db-8389-4268-847b-50e18b4b06d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/1032.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -258,7 +257,7 @@
       <workItem from="1574610243779" duration="30910000" />
       <workItem from="1574751402873" duration="15956000" />
       <workItem from="1574842757496" duration="16857000" />
-      <workItem from="1574918064215" duration="22354000" />
+      <workItem from="1574918064215" duration="22954000" />
     </task>
     <task id="LOCAL-00001" summary="1002">
       <created>1574659660738</created>
@@ -498,14 +497,21 @@
       <option name="project" value="LOCAL" />
       <updated>1574947497148</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="1032">
+      <created>1575011095333</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1575011095333</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="87912000" />
+    <option name="totallyTimeSpent" value="88512000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26273242" />
@@ -535,7 +541,6 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="1007" />
     <MESSAGE value="1008" />
     <MESSAGE value="1009" />
     <MESSAGE value="1010" />
@@ -560,7 +565,8 @@
     <MESSAGE value="1029" />
     <MESSAGE value="1030" />
     <MESSAGE value="1031" />
-    <option name="LAST_COMMIT_MESSAGE" value="1031" />
+    <MESSAGE value="1032" />
+    <option name="LAST_COMMIT_MESSAGE" value="1032" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PAT_B_Python3$1011.coverage" NAME="1011 Coverage Results" MODIFIED="1574682386840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
